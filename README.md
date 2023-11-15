@@ -2,6 +2,11 @@
 
 This Proof of Concept (PoC) will involve setting up OIDC authentication between Google Cloud Platform (GCP) and Github.
 
+## The Video of the process
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pIYf2j1BQsw
+" target="_blank"><img src="http://img.youtube.com/vi/pIYf2j1BQsw/0.jpg" 
+alt="Watch the video" width="240" height="180" border="10" /></a>
+
 ## Prerequisites
 
 Before commencing, ensure that the following components are in place:
